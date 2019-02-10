@@ -1,2 +1,7 @@
-# AlgorithmPractice
-알고리즘 관련 문제 풀기 (hackers,programmers ...)
+# AlgorithmPractice 
+### 알고리즘 관련 개인 스터디
+
+* JAVA
+    - 자료구조와 함께 배우는 알고리즘 입문 자바 편. (이지스 퍼블리싱)
+    	+ 1
+            = 2
